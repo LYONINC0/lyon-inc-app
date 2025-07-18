@@ -1,1 +1,1 @@
-// Home Page placeholder
+export default function Home() { return <h1>Welcome to LYON INC</h1>; }
