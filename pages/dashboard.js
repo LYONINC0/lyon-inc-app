@@ -1,1 +1,1 @@
-// Dashboard placeholder
+// Dashboard content placeholder
