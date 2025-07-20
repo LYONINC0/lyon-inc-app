@@ -1,1 +1,3 @@
-export default function Home() { return <h1>Welcome to LYON INC</h1>; }
+
+import Dashboard from './dashboard'
+export default Dashboard

@@ -1,5 +1,6 @@
+
 {
-  "name": "lyoninc",
+  "name": "lyon-inc-app",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
@@ -7,8 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "15.4.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": "^15.4.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }

@@ -1,3 +1,2 @@
 # LYON INC
-
-Official web app.
+The Gold Standard in Content Scheduling
